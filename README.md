@@ -1,4 +1,4 @@
-# Notes Made - MERN Stack Note Taking App
+# Noter- MERN Stack Note Taking App
 
 Welcome to **Noter**, a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed for simple note taking with user authentication and CRUD operations.
 
