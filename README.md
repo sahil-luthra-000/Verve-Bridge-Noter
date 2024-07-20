@@ -90,15 +90,7 @@ Contributions are welcome! To contribute:
 - Push to the branch (`git push origin feature/YourFeature`).
 - Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project was created as part of learning the MERN stack.
-- Inspiration and guidance from various online tutorials and resources.
-
----
-
-Feel free to customize this README based on your specific implementation details and preferences. Happy coding! 🚀
+- Inspiration and guidance from various online tutorials and resources.🚀
